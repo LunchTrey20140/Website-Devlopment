@@ -1,0 +1,33 @@
+---
+format:
+  html:
+    theme: none
+    css: styles.css
+    smooth-scroll: true
+---
+
+
+<div class="hero-section">
+  <h1>Trey Roark \(She/They\)</h1>
+  <p class="tagline">Data Scientist | Storyteller | Creator</p>
+  <a href="#projects" class="cta-button">Explore My Work</a>
+</div>
+
+
+<div class="intro-section">
+  <h2>Welcome to My World of Data & Creativity</h2>
+  <p>I’m a graduate student at Georgetown University, blending data science with storytelling. Dive into my projects, research, and more.</p>
+</div>
+
+<div id="projects" class="projects-preview">
+  <h2>Featured Projects</h2>
+  <ul>
+    <li><a href="#">SEED Dashboard – Sustainability & Equity Insights</a></li>
+    <li><a href="#">RuPaul’s Drag Race Data Analysis</a></li>
+    <li><a href="#">Arlington Parking Patterns Study</a></li>
+  </ul>
+</div>
+
+<footer class="site-footer">
+  <p>© Trey Roark 2025 | Designed with 💙 and Data</p>
+</footer>
