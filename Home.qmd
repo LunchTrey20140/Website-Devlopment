@@ -8,8 +8,8 @@ format:
 
 
 <div class="hero-section">
-  <h1>Trey Roark \(She/They\)</h1>
-  <p class="tagline">Data Scientist | Storyteller | Creator</p>
+  <h1>Trey Roark \(She/They\)</h1> <br> 
+  <p class="tagline">Data Scientist | Storyteller | Creator</p> <br> 
   <a href="#projects" class="cta-button">Explore My Work</a>
 </div>
 
