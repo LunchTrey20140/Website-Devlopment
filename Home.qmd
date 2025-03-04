@@ -9,7 +9,7 @@ format:
 
 <div class="hero-section">
   <h1>Trey Roark \(She/They\)</h1> <br> 
-  <p class="tagline">Data Scientist | Storyteller | Creator</p> <br> 
+  <p class="tagline">Data Scientist | Statistician | Creator</p> <br> 
   <a href="#projects" class="cta-button">Explore My Work</a>
 </div>
 
@@ -31,3 +31,6 @@ format:
 <footer class="site-footer">
   <p>© Trey Roark 2025 | Designed with 💙 and Data</p>
 </footer>
+
+
+
