@@ -8,8 +8,8 @@ format:
 
 
 <div class="hero-section">
-  <h1>Trey Roark \(She/They\)</h1> <br> 
-  <p class="tagline">Data Scientist | Statistician | Creator</p> <br> 
+  <h1>Trey Roark</h1> <br> 
+  <p class="tagline"> Data Scientist | Statistician | MSc Candidate </p> <br> 
   <a href="#projects" class="cta-button">Explore My Work</a>
 </div>
 
@@ -27,6 +27,25 @@ format:
     <li><a href="#">Arlington Parking Patterns Study</a></li>
   </ul>
 </div>
+
+
+::: {.profile-section}
+::: {.profile-container}
+::: {.profile-card}
+::: {.profile-front}
+![](pictures/prof_head.jpg){.profile-image width=250 height=250 style="border-radius: 50%; object-fit: cover;"}
+:::
+::: {.profile-back}
+**Connect with Me** 
+
+- [GitHub](https://github.com/LunchTrey20140){target="_blank"}
+  
+- [LinkedIn](http://www.linkedin.com/in/trey-roark-20426b253){target="_blank"}
+:::
+:::
+:::
+:::
+
 
 <footer class="site-footer">
   <p>© Trey Roark 2025 | Designed with 💙 and Data</p>
