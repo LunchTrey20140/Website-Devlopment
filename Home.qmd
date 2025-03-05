@@ -34,6 +34,14 @@ My research intertwines machine learning with queer theory, investigating the wa
   </ul>
 </div>
 
+<div id="projects" class="projects-preview">
+  <h2>Previous Projects</h2>
+  <ul>
+    <li><a href="#">SEED Dashboard – Sustainability & Equity Insights</a></li>
+    <li><a href="#">RuPaul’s Drag Race Data Analysis</a></li>
+    <li><a href="#">Arlington Parking Patterns Study</a></li>
+  </ul>
+</div>
 
 ::: {.profile-section}
 ::: {.profile-container}
