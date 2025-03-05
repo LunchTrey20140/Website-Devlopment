@@ -9,18 +9,24 @@ format:
 
 <div class="hero-section">
   <h1>Trey Roark</h1> <br> 
-  <p class="tagline"> Data Scientist | Statistician | MSc Candidate </p> <br> 
+  <p class="tagline"> Data Scientist | Statistician | Researcher </p> <br> 
   <a href="#projects" class="cta-button">Explore My Work</a>
 </div>
 
 
-<div class="intro-section">
-  <h2>Welcome to My World of Data & Creativity</h2>
-  <p>I’m a graduate student at Georgetown University, blending data science with storytelling. Dive into my projects, research, and more.</p>
-</div>
+::: {.intro-section}
+::: {.intro-content}
+::: {.intro-text}
+## Welcome to My World of Data & Creativity  
+I’m a graduate student at Georgetown University, blending data science with storytelling. 
+
+My research intertwines machine learning with queer theory, investigating the ways academia instantiates itself through an evidentiary case study of statistical inference.
+:::
+:::
+:::
 
 <div id="projects" class="projects-preview">
-  <h2>Featured Projects</h2>
+  <h2>Current Projects</h2>
   <ul>
     <li><a href="#">SEED Dashboard – Sustainability & Equity Insights</a></li>
     <li><a href="#">RuPaul’s Drag Race Data Analysis</a></li>
