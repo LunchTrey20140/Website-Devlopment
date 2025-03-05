@@ -92,6 +92,7 @@ body {
 .projects-preview h2 {
   font-size: 2.5rem;
   color: #1e3a8a;
+  text-align: center;
 }
 
 .projects-preview ul {
